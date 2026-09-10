@@ -1,0 +1,6 @@
+{
+  "name": "Lenus Specialty Clinic",
+  "description": "Modern, human-centered diabetes care and diabetology practice led by Dr. Anirban Chakraborty in Kalikapur, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
